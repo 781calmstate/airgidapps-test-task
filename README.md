@@ -1,1 +1,0 @@
-# airgidapps-test-task
